@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\bin\Debug\14.01.22.exe.config
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\bin\Debug\14.01.22.exe
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\bin\Debug\14.01.22.pdb
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\14.01.22 Новый.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\_14._01._22.Form1.resources
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\_14._01._22.Form2.resources
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\_14._01._22.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\14.01.22 Новый.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\14.01.22 Новый.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\14.01.22.exe
+C:\Users\Lenovo\Desktop\Обеспечение качества КС\PR3.2022\14.01.22\14.01.22\obj\Debug\14.01.22.pdb

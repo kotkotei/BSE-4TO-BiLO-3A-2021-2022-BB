@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\bin\Debug\1 практика ресуем квадрат.exe.config
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\bin\Debug\1 практика ресуем квадрат.exe
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\bin\Debug\1 практика ресуем квадрат.pdb
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\obj\Debug\1 практика ресуем квадрат.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\obj\Debug\_1_практика_ресуем_квадрат.Form1.resources
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\obj\Debug\_1_практика_ресуем_квадрат.Properties.Resources.resources
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\obj\Debug\1 практика ресуем квадрат.csproj.GenerateResource.cache
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\obj\Debug\1 практика ресуем квадрат.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\obj\Debug\1 практика ресуем квадрат.exe
+C:\Users\1\source\repos\1 практика ресуем квадрат\1 практика ресуем квадрат\obj\Debug\1 практика ресуем квадрат.pdb

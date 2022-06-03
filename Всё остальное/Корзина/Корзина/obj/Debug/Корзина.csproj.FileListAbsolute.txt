@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.Form1.resources
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.Properties.Resources.resources
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Корзина\Корзина\bin\Debug\Корзина.exe.config
+C:\Users\1\source\repos\Корзина\Корзина\bin\Debug\Корзина.exe
+C:\Users\1\source\repos\Корзина\Корзина\bin\Debug\Корзина.pdb
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.exe
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.pdb
+C:\Users\1\source\repos\Корзина\Корзина\obj\Debug\Корзина.Form2.resources

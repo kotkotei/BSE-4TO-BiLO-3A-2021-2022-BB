@@ -1,0 +1,20 @@
+C:\Users\1\source\repos\Змейка\Змейка\bin\Debug\Змейка.exe.config
+C:\Users\1\source\repos\Змейка\Змейка\bin\Debug\Змейка.exe
+C:\Users\1\source\repos\Змейка\Змейка\bin\Debug\Змейка.pdb
+C:\Users\1\source\repos\Змейка\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Змейка\Змейка\obj\Debug\Змейка.Form1.resources
+C:\Users\1\source\repos\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+C:\Users\1\source\repos\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Змейка\Змейка\obj\Debug\Змейка.exe
+C:\Users\1\source\repos\Змейка\Змейка\obj\Debug\Змейка.pdb
+C:\Users\1\source\repos\Змейка — копия\Змейка\bin\Debug\Змейка.exe.config
+C:\Users\1\source\repos\Змейка — копия\Змейка\bin\Debug\Змейка.exe
+C:\Users\1\source\repos\Змейка — копия\Змейка\bin\Debug\Змейка.pdb
+C:\Users\1\source\repos\Змейка — копия\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Змейка — копия\Змейка\obj\Debug\Змейка.Form1.resources
+C:\Users\1\source\repos\Змейка — копия\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+C:\Users\1\source\repos\Змейка — копия\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Змейка — копия\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Змейка — копия\Змейка\obj\Debug\Змейка.exe
+C:\Users\1\source\repos\Змейка — копия\Змейка\obj\Debug\Змейка.pdb

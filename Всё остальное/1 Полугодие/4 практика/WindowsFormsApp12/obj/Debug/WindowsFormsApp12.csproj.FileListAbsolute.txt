@@ -1,0 +1,28 @@
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form3.resources
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form4.resources
+C:\Users\1\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form6.resources
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form3.resources
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form4.resources
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form6.resources
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\1\source\repos\4 практика\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb

@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\bin\Debug\Какитио там дроби.exe.config
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\bin\Debug\Какитио там дроби.exe
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\bin\Debug\Какитио там дроби.pdb
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\obj\Debug\Какитио там дроби.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\obj\Debug\Какитио_там_дроби.Form1.resources
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\obj\Debug\Какитио_там_дроби.Properties.Resources.resources
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\obj\Debug\Какитио там дроби.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\obj\Debug\Какитио там дроби.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\obj\Debug\Какитио там дроби.exe
+C:\Users\1\source\repos\Какитио там дроби\Какитио там дроби\obj\Debug\Какитио там дроби.pdb

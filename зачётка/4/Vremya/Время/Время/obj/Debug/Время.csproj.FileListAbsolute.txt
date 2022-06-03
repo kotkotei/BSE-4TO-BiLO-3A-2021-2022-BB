@@ -1,0 +1,30 @@
+C:\Users\Lenovo\source\repos\Время\Время\bin\Debug\Время.exe.config
+C:\Users\Lenovo\source\repos\Время\Время\bin\Debug\Время.exe
+C:\Users\Lenovo\source\repos\Время\Время\bin\Debug\Время.pdb
+C:\Users\Lenovo\source\repos\Время\Время\obj\Debug\Время.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Время\Время\obj\Debug\Время.Form1.resources
+C:\Users\Lenovo\source\repos\Время\Время\obj\Debug\Время.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Время\Время\obj\Debug\Время.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Время\Время\obj\Debug\Время.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Время\Время\obj\Debug\Время.exe
+C:\Users\Lenovo\source\repos\Время\Время\obj\Debug\Время.pdb
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\bin\Debug\Время.exe.config
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\bin\Debug\Время.exe
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\bin\Debug\Время.pdb
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\obj\Debug\Время.csproj.AssemblyReference.cache
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\obj\Debug\Время.Form1.resources
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\obj\Debug\Время.Properties.Resources.resources
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\obj\Debug\Время.csproj.GenerateResource.cache
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\obj\Debug\Время.csproj.CoreCompileInputs.cache
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\obj\Debug\Время.exe
+C:\Users\Кабинет 505\Downloads\Vremya\Время\Время\obj\Debug\Время.pdb
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\bin\Debug\Время.exe.config
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\bin\Debug\Время.exe
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\bin\Debug\Время.pdb
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\obj\Debug\Время.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\obj\Debug\Время.Form1.resources
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\obj\Debug\Время.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\obj\Debug\Время.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\obj\Debug\Время.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\obj\Debug\Время.exe
+C:\Users\Lenovo\Downloads\Vremya\Время\Время\obj\Debug\Время.pdb

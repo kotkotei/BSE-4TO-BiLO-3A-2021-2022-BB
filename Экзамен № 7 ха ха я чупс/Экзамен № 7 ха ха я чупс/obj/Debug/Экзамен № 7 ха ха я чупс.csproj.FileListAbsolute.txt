@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\bin\Debug\Экзамен № 7 ха ха я чупс.exe.config
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\bin\Debug\Экзамен № 7 ха ха я чупс.exe
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\bin\Debug\Экзамен № 7 ха ха я чупс.pdb
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен № 7 ха ха я чупс.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен___7_ха_ха_я_чупс.Form1.resources
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен___7_ха_ха_я_чупс.Properties.Resources.resources
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен № 7 ха ха я чупс.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен № 7 ха ха я чупс.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен № 7 ха ха я чупс.exe
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен № 7 ха ха я чупс.pdb
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\bin\Debug\Библиотека для экхамена №7.pdb
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\bin\Debug\nOVA_7.dll
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\bin\Debug\nOVA_7.pdb
+C:\Users\1\source\repos\Экзамен № 7 ха ха я чупс\Экзамен № 7 ха ха я чупс\obj\Debug\Экзамен № 7 ха ха я чупс.csproj.CopyComplete

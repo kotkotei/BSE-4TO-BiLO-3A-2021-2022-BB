@@ -1,0 +1,21 @@
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\bin\Debug\KomplexnueChicla.exe.config
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\bin\Debug\KomplexnueChicla.exe
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\bin\Debug\KomplexnueChicla.pdb
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\obj\Debug\KomplexnueChicla.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\obj\Debug\KomplexnueChicla.Form1.resources
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\obj\Debug\KomplexnueChicla.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\obj\Debug\KomplexnueChicla.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\obj\Debug\KomplexnueChicla.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\obj\Debug\KomplexnueChicla.exe
+C:\Users\Lenovo\source\repos\KomplexnueChicla\KomplexnueChicla\obj\Debug\KomplexnueChicla.pdb
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\bin\Debug\KomplexnueChicla.exe.config
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\bin\Debug\KomplexnueChicla.exe
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\bin\Debug\KomplexnueChicla.pdb
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.csproj.AssemblyReference.cache
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.csproj.SuggestedBindingRedirects.cache
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.Form1.resources
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.Properties.Resources.resources
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.csproj.GenerateResource.cache
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.csproj.CoreCompileInputs.cache
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.exe
+C:\Users\gnost\Desktop\Экзамен у Грисман\1\KomplexnueChicla\obj\Debug\KomplexnueChicla.pdb

@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Попвтки\Попвтки\obj\Debug\Попвтки.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Попвтки\Попвтки\obj\Debug\Попвтки.Form1.resources
+C:\Users\1\source\repos\Попвтки\Попвтки\obj\Debug\Попвтки.Properties.Resources.resources
+C:\Users\1\source\repos\Попвтки\Попвтки\obj\Debug\Попвтки.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Попвтки\Попвтки\obj\Debug\Попвтки.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Попвтки\Попвтки\bin\Debug\Попвтки.exe.config
+C:\Users\1\source\repos\Попвтки\Попвтки\bin\Debug\Попвтки.exe
+C:\Users\1\source\repos\Попвтки\Попвтки\bin\Debug\Попвтки.pdb
+C:\Users\1\source\repos\Попвтки\Попвтки\obj\Debug\Попвтки.exe
+C:\Users\1\source\repos\Попвтки\Попвтки\obj\Debug\Попвтки.pdb

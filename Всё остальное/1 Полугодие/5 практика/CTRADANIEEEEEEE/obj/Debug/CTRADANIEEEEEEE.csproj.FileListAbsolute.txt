@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\bin\Debug\CTRADANIEEEEEEE.exe.config
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\bin\Debug\CTRADANIEEEEEEE.exe
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\bin\Debug\CTRADANIEEEEEEE.pdb
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\obj\Debug\CTRADANIEEEEEEE.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\obj\Debug\CTRADANIEEEEEEE.Form1.resources
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\obj\Debug\CTRADANIEEEEEEE.Properties.Resources.resources
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\obj\Debug\CTRADANIEEEEEEE.csproj.GenerateResource.cache
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\obj\Debug\CTRADANIEEEEEEE.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\obj\Debug\CTRADANIEEEEEEE.exe
+C:\Users\1\source\repos\CTRADANIEEEEEEE\CTRADANIEEEEEEE\obj\Debug\CTRADANIEEEEEEE.pdb

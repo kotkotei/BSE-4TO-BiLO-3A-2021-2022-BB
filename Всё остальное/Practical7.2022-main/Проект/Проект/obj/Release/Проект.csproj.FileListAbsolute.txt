@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Release\Проект.Form1.resources
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Release\Проект.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Release\Проект.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Release\Проект.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Проект\Проект\bin\Release\Проект.exe.config
+C:\Users\Lenovo\source\repos\Проект\Проект\bin\Release\Проект.exe
+C:\Users\Lenovo\source\repos\Проект\Проект\bin\Release\Проект.pdb
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Release\Проект.exe
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Release\Проект.pdb

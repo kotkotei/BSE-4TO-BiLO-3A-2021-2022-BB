@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Дроби\Дроби\bin\Debug\Дроби.exe.config
+C:\Users\Lenovo\source\repos\Дроби\Дроби\bin\Debug\Дроби.exe
+C:\Users\Lenovo\source\repos\Дроби\Дроби\bin\Debug\Дроби.pdb
+C:\Users\Lenovo\source\repos\Дроби\Дроби\obj\Debug\Дроби.Form1.resources
+C:\Users\Lenovo\source\repos\Дроби\Дроби\obj\Debug\Дроби.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Дроби\Дроби\obj\Debug\Дроби.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Дроби\Дроби\obj\Debug\Дроби.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Дроби\Дроби\obj\Debug\Дроби.exe
+C:\Users\Lenovo\source\repos\Дроби\Дроби\obj\Debug\Дроби.pdb
+C:\Users\Lenovo\source\repos\Дроби\Дроби\obj\Debug\Дроби.csproj.AssemblyReference.cache

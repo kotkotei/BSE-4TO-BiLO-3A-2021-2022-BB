@@ -1,0 +1,6 @@
+C:\Users\1\source\repos\nOVA_7\nOVA_7\bin\Debug\nOVA_7.dll
+C:\Users\1\source\repos\nOVA_7\nOVA_7\bin\Debug\nOVA_7.pdb
+C:\Users\1\source\repos\nOVA_7\nOVA_7\obj\Debug\nOVA_7.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\nOVA_7\nOVA_7\obj\Debug\nOVA_7.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\nOVA_7\nOVA_7\obj\Debug\nOVA_7.dll
+C:\Users\1\source\repos\nOVA_7\nOVA_7\obj\Debug\nOVA_7.pdb

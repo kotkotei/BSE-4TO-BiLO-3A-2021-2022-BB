@@ -1,0 +1,30 @@
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\Кабинет 505\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\Lenovo\Desktop\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\Lenovo\source\repos\Дроби от СС\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb

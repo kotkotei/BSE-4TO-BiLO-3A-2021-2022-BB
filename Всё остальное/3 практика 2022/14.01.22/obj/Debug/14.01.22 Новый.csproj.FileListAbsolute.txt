@@ -1,0 +1,22 @@
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\bin\Debug\14.01.22.exe.config
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\bin\Debug\14.01.22.exe
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\bin\Debug\14.01.22.pdb
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\14.01.22 Новый.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\_14._01._22.Form1.resources
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\_14._01._22.Form2.resources
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\_14._01._22.Properties.Resources.resources
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\14.01.22 Новый.csproj.GenerateResource.cache
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\14.01.22 Новый.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\14.01.22.exe
+C:\Users\1\OneDrive\Рабочий стол\14.01.22\14.01.22\obj\Debug\14.01.22.pdb
+C:\Users\1\source\repos\3 практика 2022\14.01.22\bin\Debug\14.01.22.exe.config
+C:\Users\1\source\repos\3 практика 2022\14.01.22\bin\Debug\14.01.22.exe
+C:\Users\1\source\repos\3 практика 2022\14.01.22\bin\Debug\14.01.22.pdb
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\14.01.22 Новый.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\_14._01._22.Form1.resources
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\_14._01._22.Form2.resources
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\_14._01._22.Properties.Resources.resources
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\14.01.22 Новый.csproj.GenerateResource.cache
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\14.01.22 Новый.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\14.01.22.exe
+C:\Users\1\source\repos\3 практика 2022\14.01.22\obj\Debug\14.01.22.pdb

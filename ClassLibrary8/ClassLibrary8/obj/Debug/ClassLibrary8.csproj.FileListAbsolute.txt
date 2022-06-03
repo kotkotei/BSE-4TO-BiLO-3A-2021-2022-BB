@@ -1,0 +1,6 @@
+C:\Users\1\source\repos\ClassLibrary8\ClassLibrary8\bin\Debug\ClassLibrary8.dll
+C:\Users\1\source\repos\ClassLibrary8\ClassLibrary8\bin\Debug\ClassLibrary8.pdb
+C:\Users\1\source\repos\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.dll
+C:\Users\1\source\repos\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.pdb

@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\bin\Debug\исуем  графику со смайликом.exe.config
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\bin\Debug\исуем  графику со смайликом.exe
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\bin\Debug\исуем  графику со смайликом.pdb
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\obj\Debug\исуем  графику со смайликом.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\obj\Debug\исуем__графику_со_смайликом.Form1.resources
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\obj\Debug\исуем__графику_со_смайликом.Properties.Resources.resources
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\obj\Debug\исуем  графику со смайликом.csproj.GenerateResource.cache
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\obj\Debug\исуем  графику со смайликом.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\obj\Debug\исуем  графику со смайликом.exe
+C:\Users\1\source\repos\исуем  графику со смайликом\исуем  графику со смайликом\obj\Debug\исуем  графику со смайликом.pdb

@@ -1,0 +1,30 @@
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Debug\Проект.Form1.resources
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\Lenovo\source\repos\Проект\Проект\bin\Debug\Проект.exe
+C:\Users\Lenovo\source\repos\Проект\Проект\bin\Debug\Проект.pdb
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Debug\Проект.exe
+C:\Users\Lenovo\source\repos\Проект\Проект\obj\Debug\Проект.pdb
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\bin\Debug\Проект.exe
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\bin\Debug\Проект.pdb
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\obj\Debug\Проект.Form1.resources
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\obj\Debug\Проект.exe
+C:\Users\Кабинет 505\Downloads\Proekt\Проект\Проект\obj\Debug\Проект.pdb
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\bin\Debug\Проект.exe
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\bin\Debug\Проект.pdb
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\obj\Debug\Проект.Form1.resources
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\obj\Debug\Проект.exe
+C:\Users\Lenovo\Desktop\Проект от СС 22\Проект\Проект\obj\Debug\Проект.pdb

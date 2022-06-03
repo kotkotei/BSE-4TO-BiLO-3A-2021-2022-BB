@@ -1,0 +1,30 @@
+C:\Users\Lenovo\source\repos\Pr2\Pr2\obj\Debug\Pr2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Pr2\Pr2\obj\Debug\Pr2.Form1.resources
+C:\Users\Lenovo\source\repos\Pr2\Pr2\obj\Debug\Pr2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Pr2\Pr2\obj\Debug\Pr2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Pr2\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Pr2\Pr2\bin\Debug\Pr2.exe.config
+C:\Users\Lenovo\source\repos\Pr2\Pr2\bin\Debug\Pr2.exe
+C:\Users\Lenovo\source\repos\Pr2\Pr2\bin\Debug\Pr2.pdb
+C:\Users\Lenovo\source\repos\Pr2\Pr2\obj\Debug\Pr2.exe
+C:\Users\Lenovo\source\repos\Pr2\Pr2\obj\Debug\Pr2.pdb
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\bin\Debug\Pr2.exe.config
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\bin\Debug\Pr2.exe
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\bin\Debug\Pr2.pdb
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\obj\Debug\Pr2.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\obj\Debug\Pr2.Form1.resources
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\obj\Debug\Pr2.Properties.Resources.resources
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\obj\Debug\Pr2.csproj.GenerateResource.cache
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\obj\Debug\Pr2.exe
+C:\Users\1\OneDrive\Рабочий стол\Pr2.2022-main\Pr2\Pr2\obj\Debug\Pr2.pdb
+C:\Users\1\source\repos\Pr2\Pr2\bin\Debug\Pr2.exe.config
+C:\Users\1\source\repos\Pr2\Pr2\bin\Debug\Pr2.exe
+C:\Users\1\source\repos\Pr2\Pr2\bin\Debug\Pr2.pdb
+C:\Users\1\source\repos\Pr2\Pr2\obj\Debug\Pr2.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Pr2\Pr2\obj\Debug\Pr2.Form1.resources
+C:\Users\1\source\repos\Pr2\Pr2\obj\Debug\Pr2.Properties.Resources.resources
+C:\Users\1\source\repos\Pr2\Pr2\obj\Debug\Pr2.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Pr2\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Pr2\Pr2\obj\Debug\Pr2.exe
+C:\Users\1\source\repos\Pr2\Pr2\obj\Debug\Pr2.pdb

@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\10 практическоя\10 практическоя\bin\Debug\10 практическоя.exe.config
+C:\Users\1\source\repos\10 практическоя\10 практическоя\bin\Debug\10 практическоя.exe
+C:\Users\1\source\repos\10 практическоя\10 практическоя\bin\Debug\10 практическоя.pdb
+C:\Users\1\source\repos\10 практическоя\10 практическоя\obj\Debug\10 практическоя.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\10 практическоя\10 практическоя\obj\Debug\_10_практическоя.Properties.Resources.resources
+C:\Users\1\source\repos\10 практическоя\10 практическоя\obj\Debug\10 практическоя.csproj.GenerateResource.cache
+C:\Users\1\source\repos\10 практическоя\10 практическоя\obj\Debug\10 практическоя.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\10 практическоя\10 практическоя\obj\Debug\10 практическоя.exe
+C:\Users\1\source\repos\10 практическоя\10 практическоя\obj\Debug\10 практическоя.pdb

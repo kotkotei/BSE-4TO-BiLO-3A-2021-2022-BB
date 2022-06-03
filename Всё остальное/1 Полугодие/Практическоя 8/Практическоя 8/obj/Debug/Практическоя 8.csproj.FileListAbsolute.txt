@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\bin\Debug\Практическоя 8.exe.config
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\bin\Debug\Практическоя 8.exe
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\bin\Debug\Практическоя 8.pdb
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\obj\Debug\Практическоя 8.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\obj\Debug\Практическоя_8.Form1.resources
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\obj\Debug\Практическоя_8.Properties.Resources.resources
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\obj\Debug\Практическоя 8.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\obj\Debug\Практическоя 8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\obj\Debug\Практическоя 8.exe
+C:\Users\1\source\repos\Практическоя 8\Практическоя 8\obj\Debug\Практическоя 8.pdb

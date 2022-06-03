@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Матрицы\Матрицы\bin\Debug\Матрицы.exe.config
+C:\Users\1\source\repos\Матрицы\Матрицы\bin\Debug\Матрицы.exe
+C:\Users\1\source\repos\Матрицы\Матрицы\bin\Debug\Матрицы.pdb
+C:\Users\1\source\repos\Матрицы\Матрицы\obj\Debug\Матрицы.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Матрицы\Матрицы\obj\Debug\Матрицы.Form1.resources
+C:\Users\1\source\repos\Матрицы\Матрицы\obj\Debug\Матрицы.Properties.Resources.resources
+C:\Users\1\source\repos\Матрицы\Матрицы\obj\Debug\Матрицы.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Матрицы\Матрицы\obj\Debug\Матрицы.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Матрицы\Матрицы\obj\Debug\Матрицы.exe
+C:\Users\1\source\repos\Матрицы\Матрицы\obj\Debug\Матрицы.pdb

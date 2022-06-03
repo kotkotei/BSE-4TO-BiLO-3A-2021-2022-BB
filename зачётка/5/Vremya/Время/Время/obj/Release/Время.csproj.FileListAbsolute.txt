@@ -1,0 +1,11 @@
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\bin\Release\Время.exe.config
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\bin\Release\Время.exe
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\bin\Release\Время.pdb
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.csproj.AssemblyReference.cache
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.csproj.SuggestedBindingRedirects.cache
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.Form1.resources
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.Properties.Resources.resources
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.csproj.GenerateResource.cache
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.csproj.CoreCompileInputs.cache
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.exe
+C:\Users\ficus\Desktop\экзамен\DATA 5\Vremya\Время\Время\obj\Release\Время.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "исуем  графику со смайликом", "исуем  графику со смайликом\исуем  графику со смайликом.csproj", "{BD7E6736-3FEA-4F5D-8CAE-60AB0358384F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7E6736-3FEA-4F5D-8CAE-60AB0358384F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7E6736-3FEA-4F5D-8CAE-60AB0358384F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7E6736-3FEA-4F5D-8CAE-60AB0358384F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7E6736-3FEA-4F5D-8CAE-60AB0358384F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21865BC3-36B7-4C51-B024-69F91DCAC7DE}
+	EndGlobalSection
+EndGlobal
